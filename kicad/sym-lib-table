@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TC2030-MCP-NL-Adapter-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/TC2030-MCP-NL-Adapter-eagle-import.kicad_sym")(options "")(descr ""))
+)
